@@ -1,6 +1,3 @@
-Certainly! Below is a template for a simple GitHub README for your tool. You can customize it further based on additional features or information you want to include:
-
-```markdown
 # Ultimate Renamer
 
 A quick, simple, and easy-to-use tool for renaming files in your current directory to random names.
