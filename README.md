@@ -26,6 +26,9 @@ XyZ12345.docx
 qWerty78.jpg
 ```
 
+## Known bugs:
+- Renames itself to random names
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
